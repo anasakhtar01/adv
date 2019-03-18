@@ -12,11 +12,11 @@ export default class Main extends Component {
     return (
       <div>
            <Switch>
-      <Route exact path='/' component={Home}/>
-      <Route path='/page' component={page} />
-      <Route path='/brandpage/:number' component={brandpage} />
-      <Route path='/grocerypage/:number' component={grocerypage} />
-      <Route path='/mallpage/:number' component={mallpage} />
+      <Route exact path='/adv/' component={Home}/>
+      <Route path='/adv/page' component={page} />
+      <Route path='/adv/brandpage/:number' component={brandpage} />
+      <Route path='/adv/grocerypage/:number' component={grocerypage} />
+      <Route path='/adv/mallpage/:number' component={mallpage} />
     </Switch>
         
       </div>
