@@ -5,6 +5,7 @@ import page from './Body/page/page.js'
 import brand from './Body/page/brand.js'
 import brandpage from './Body/page/brandpage.js';
 import grocerypage from './Body/page/grocerypage.js';
+import mallpage from './Body/page/mallpage.js';
 
 export default class Main extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class Main extends Component {
       <Route path='/page' component={page} />
       <Route path='/brandpage/:number' component={brandpage} />
       <Route path='/grocerypage/:number' component={grocerypage} />
+      <Route path='/mallpage/:number' component={mallpage} />
     </Switch>
         
       </div>

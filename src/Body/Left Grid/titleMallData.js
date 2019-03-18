@@ -1,39 +1,39 @@
 const tileMallData = [
     {
-      img: '/assets/Malls/al samad al quraishi/Box/Box ( al quraishi ).png',
-      title: 'desigual',
+      img: '/assets/Malls/alsamad/Box/Box ( al quraishi ).png',
+      title: 'alsamad',
       author: 'jill111',
       featured: true,
       id: 1
     },
     {
       img: '/assets/Malls/Alyce/Box/Box (ALyce).png',
-      title: 'Tasty burger',
+      title: 'alyce',
       author: 'director90',
       id: 2
     },
     {
       img: '/assets/Malls/cole haan/Box/Box (Cole haan).png',
-      title: 'bodyshop',
+      title: 'cole haan',
       author: 'Danson67',
       id: 3
     },
     {
       img: '/assets/Malls/debenhams/Box/Box (Debenhams).png',
-      title: 'Morning',
+      title: 'debenhams',
       author: 'fancycrave1',
       featured: true,
       id: 4
     },
     {
       img: '/assets/Malls/Dune/Box/Box (Dune).png',
-      title: 'Hats',
+      title: 'Dune',
       author: 'Hans',
       id: 5
     },
     {
       img: '/assets/Malls/swatch/Box/Box (swatch).png',
-      title: 'Honey',
+      title: 'swatch',
       author: 'fancycravel',
       id: 6
     },

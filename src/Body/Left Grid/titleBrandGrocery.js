@@ -1,7 +1,7 @@
 const tileBrandData = [
     {
       img: '/assets/Banners/Food banner 1.png',
-      title: 'Breakfast',
+      title: 'alabbar',
       author: 'jill111',
       featured: true,
       id: 1

@@ -54,7 +54,7 @@ const styles = theme => ({
         <GridList cellHeight={160} className={classes.gridList} cols={getGridListCols}>
           {tileMallData.map(tile => (
             <GridListTile key={tile.img} cols={tile.cols || 1}>
-             <Link to={`/brandpage/${tile.title}`}> <img src={tile.img} alt={tile.title} style={{width: 340}} className="imagedropshadow" /></Link>
+             <Link to={`/mallpage/${tile.title}`}> <img src={tile.img} alt={tile.title} style={{width: 340}} className="imagedropshadow" /></Link>
             </GridListTile>
           ))}
         </GridList>
