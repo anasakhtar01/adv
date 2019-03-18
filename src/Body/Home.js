@@ -88,8 +88,8 @@ export default class Home extends Component {
         <Grid item lg={12} xs={12}>
         <BrandGrid />
         </Grid>
-        <Grid item lg={6} xs={10}><img src="/assets/ad4.jpg" style={{width: 674}}></img></Grid>
-         <Grid item lg={6} xs={10}><img src="/assets/ad4.jpg" style={{width: 674}}></img></Grid>
+        <Grid item lg={6} xs={12}><Ads1 /></Grid>
+         <Grid item lg={6} xs={12}><Ads2 /></Grid>
         {/* <Grid item xs={12}>
         <BrandLogoGrid />
         </Grid> */}
@@ -97,15 +97,15 @@ export default class Home extends Component {
 <Grid item xs={12}>
         <MallGrid />
         </Grid>
-        <Grid item lg={6} xs={10}><img src="/assets/ad4.jpg" style={{width: 674}}></img></Grid>
-         <Grid item lg={6} xs={10}><img src="/assets/ad4.jpg" style={{width: 674}}></img></Grid>
+        <Grid item lg={6} xs={12}><Ads1 /></Grid>
+         <Grid item lg={6} xs={12}><Ads2 /></Grid>
         
         <Grid item xs={12}>
         <GroceryGrid />
         </Grid>
         
-        <Grid item lg={6} xs={10}><img src="/assets/ad4.jpg" style={{width: 674}}></img></Grid>
-         <Grid item lg={6} xs={10}><img src="/assets/ad4.jpg" style={{width: 674}}></img></Grid>
+        <Grid item lg={6} xs={12}><Ads1 /></Grid>
+         <Grid item lg={6} xs={12}><Ads2 /></Grid>
         </Grid>
       </div>
     )

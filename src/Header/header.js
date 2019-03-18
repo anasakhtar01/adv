@@ -26,7 +26,7 @@ export default class Header extends Component {
         <div className="header" style={{  width: '100%'}}>
         <Grid container spacing={24}>
         <Grid item xs={4}>
-        <img src="/assets/abc-logo.png" style={{width:262,padding: "2%",
+        <img src="/assets/abc-logo.png" style={{width:400,padding: "2%",
     paddingLeft: "7%"}}></img>
         </Grid>
         <Grid item xs={8}>
