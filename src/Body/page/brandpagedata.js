@@ -1,3 +1,3 @@
-const brandpagedata = ["/adv/assets/Desigual/desigual logo.png", "/adv/assets/Desigual/desigual1.png"]
+const brandpagedata = ["/assets/Desigual/desigual logo.png", "/assets/Desigual/desigual1.png"]
 
 export default brandpagedata;

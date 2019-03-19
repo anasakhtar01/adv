@@ -1,57 +1,57 @@
 const tileMallData = [
     {
-      img: '/adv/assets/Malls/alsamad/Box/Box ( al quraishi ).png',
+      img: './assets/Malls/alsamad/Box/Box ( al quraishi ).png',
       title: 'alsamad',
       author: 'jill111',
       featured: true,
       id: 1
     },
     {
-      img: '/adv/assets/Malls/Alyce/Box/Box (ALyce).png',
+      img: './assets/Malls/Alyce/Box/Box (ALyce).png',
       title: 'alyce',
       author: 'director90',
       id: 2
     },
     {
-      img: '/adv/assets/Malls/cole haan/Box/Box (Cole haan).png',
+      img: './assets/Malls/cole haan/Box/Box (Cole haan).png',
       title: 'cole haan',
       author: 'Danson67',
       id: 3
     },
     {
-      img: '/adv/assets/Malls/debenhams/Box/Box (Debenhams).png',
+      img: './assets/Malls/debenhams/Box/Box (Debenhams).png',
       title: 'debenhams',
       author: 'fancycrave1',
       featured: true,
       id: 4
     },
     {
-      img: '/adv/assets/Malls/Dune/Box/Box (Dune).png',
+      img: './assets/Malls/Dune/Box/Box (Dune).png',
       title: 'Dune',
       author: 'Hans',
       id: 5
     },
     {
-      img: '/adv/assets/Malls/swatch/Box/Box (swatch).png',
+      img: './assets/Malls/swatch/Box/Box (swatch).png',
       title: 'swatch',
       author: 'fancycravel',
       id: 6
     },
     {
-      img: '/adv/assets/brandbox/brand7.png',
+      img: './assets/brandbox/brand7.png',
       title: 'Morning',
       author: 'fancycrave1',
       featured: true,
       id: 4
     },
     {
-      img: '/adv/assets/brandbox/brand8.png',
+      img: './assets/brandbox/brand8.png',
       title: 'Hats',
       author: 'Hans',
       id: 5
     },
     {
-      img: '/adv/assets/brandbox/brand9.png',
+      img: './assets/brandbox/brand9.png',
       title: 'Honey',
       author: 'fancycravel',
       id: 6
